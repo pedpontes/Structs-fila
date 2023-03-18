@@ -1,7 +1,7 @@
 # Lista Encadeada em C
 
 Este é um programa em C que implementa uma lista encadeada simples, onde cada nó contém o nome e a idade de um usuário.
-Como funciona
+## Como funciona
 
 O programa inicia com uma lista vazia e o usuário pode escolher entre três opções: adicionar um novo usuário, remover um usuário existente ou imprimir todos os usuários da lista.
 
