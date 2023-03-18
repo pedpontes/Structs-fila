@@ -16,11 +16,11 @@ O programa termina quando o usuário escolhe a opção de sair.
 
 Para compilar o programa, basta digitar o seguinte comando no terminal:
 
-  gcc -o lista lista.c
+  ```bash gcc -o lista lista.c```
 
 Em seguida, execute o programa com o seguinte comando:
 
-  ./lista
+  ```bash ./lista```
 
 ## Observações
 
